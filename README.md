@@ -1,4 +1,4 @@
-# Stereogram Image Classification
+# Autostereogram Image Classification
 
 <br>- Course: Flatiron Data Science </br>
 <br>- Pace: Self Paced </br>
